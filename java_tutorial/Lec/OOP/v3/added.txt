@@ -1,0 +1,3 @@
+info_hiding
+constructor/ constructor overload
+getter/setter

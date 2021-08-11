@@ -1,0 +1,4 @@
+ui 분리
+
+Jar 생성
+jar -cvmf .\manifest.txt out.jar ExamList.java Exam.java ExamConsole.java
