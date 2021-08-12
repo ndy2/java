@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "lec_realease/Program/lib/java_tutorial.jar"
+    ]
+}
