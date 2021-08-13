@@ -2,5 +2,9 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "lec_realease/Program/lib/java_tutorial.jar"
+    ],
+    "java.project.sourcePaths": [
+        "lec_realease/Program/src",
+        "lec_exception/lec/src"
     ]
 }

@@ -1,7 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "Program/lib/out.jar",
-        "Program/lib/java_tutorial.jar"
-    ]
-}

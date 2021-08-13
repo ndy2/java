@@ -1,0 +1,28 @@
+package lec_exc;
+
+public class Calculator {
+   
+    //Static Method
+    public static int add(int x, int y) throws over1000, under0{
+        //결과의 합이 1000이 넘으면 안됨
+        
+        int res = x+y;
+        if(res>1000)
+            throw new over1000();
+        if(res<0)
+            throw new under0();
+        return x+y;
+    }
+
+    public static int sub(int x, int y) {
+        return x-y;
+    }
+    
+    public static int mul(int x, int y) {
+        return x*y;
+    }
+
+    public static int div(int x, int y) {
+        return x/y;
+    }
+}
